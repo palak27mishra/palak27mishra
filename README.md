@@ -53,8 +53,8 @@ I regularly solve coding problems to improve my algorithmic thinking, coding eff
 
  🤝 Connect With Me
 📧 Email: nileemamishra07@gmail.com
-💼 LinkedIn: Neelima Mishra
+💼 LinkedIn: www.linkedin.com/in/neelima-mishra-665ba0305 
 💻 GitHub: palak27mishra
-🧩 LeetCode: palak-mishra
+🧩 LeetCode: palak-mishra - https://leetcode.com/u/palak-mishra/
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
